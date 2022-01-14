@@ -1,1 +1,3 @@
-# pablo_velasco_crespo_practicas_sma_2021
+# Chatbot Sistemas Multiagente 2021
+
+Vídeo de explicación: https://youtu.be/GFuCAThkktQ
